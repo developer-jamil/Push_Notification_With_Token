@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "67207465534",
+    "firebase_url": "https://push-notification-341ef-default-rtdb.firebaseio.com",
+    "project_id": "push-notification-341ef",
+    "storage_bucket": "push-notification-341ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67207465534:android:5ae13b1667a25976485f6f",
+        "android_client_info": {
+          "package_name": "com.jamillabltd.pushnotificationadminversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67207465534-6bk7j6u0bl4s9qhj8riaa264sj65fpmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCheG5Bo7qJw8pQ8-jrnD9MrwGl66uznDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67207465534-6bk7j6u0bl4s9qhj8riaa264sj65fpmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67207465534:android:196b9c006ec7be0b485f6f",
+        "android_client_info": {
+          "package_name": "com.jamillabltd.pushnotificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67207465534-6bk7j6u0bl4s9qhj8riaa264sj65fpmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCheG5Bo7qJw8pQ8-jrnD9MrwGl66uznDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67207465534-6bk7j6u0bl4s9qhj8riaa264sj65fpmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67207465534:android:55960a603746fee4485f6f",
+        "android_client_info": {
+          "package_name": "com.jamillabltd.pushnotificationonesignal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67207465534-6bk7j6u0bl4s9qhj8riaa264sj65fpmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCheG5Bo7qJw8pQ8-jrnD9MrwGl66uznDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67207465534-6bk7j6u0bl4s9qhj8riaa264sj65fpmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67207465534:android:eafa0cdc6e87d4c0485f6f",
+        "android_client_info": {
+          "package_name": "com.jamillabltd.pushnotificationuserversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67207465534-6bk7j6u0bl4s9qhj8riaa264sj65fpmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCheG5Bo7qJw8pQ8-jrnD9MrwGl66uznDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67207465534-6bk7j6u0bl4s9qhj8riaa264sj65fpmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67207465534:android:648243dde322c961485f6f",
+        "android_client_info": {
+          "package_name": "com.jamillabltd.pushnotificationwithtoken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67207465534-6bk7j6u0bl4s9qhj8riaa264sj65fpmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCheG5Bo7qJw8pQ8-jrnD9MrwGl66uznDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67207465534-6bk7j6u0bl4s9qhj8riaa264sj65fpmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
